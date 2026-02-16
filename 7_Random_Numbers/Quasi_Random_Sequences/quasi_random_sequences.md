@@ -1,0 +1,19 @@
+# Quasi Random Sequences
+
+## Description
+This file contains the implementation of Quasi Random Sequences from Chapter Quasi of Numerical Recipes.
+
+## Mathematical Background
+<!-- Provide a brief overview of the mathematical concepts behind this algorithm -->
+
+## Implementation Notes
+<!-- Document any implementation details, considerations, or optimizations -->
+
+## Usage Example
+```python
+# Example usage of the algorithm
+```
+
+## References
+- Numerical Recipes, Chapter Quasi: Quasi Random Sequences
+- Original page references: <!-- Add page numbers from the textbook -->
